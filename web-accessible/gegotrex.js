@@ -1,7 +1,11 @@
 function initialize() {
-	console.log("initialize now");
+	console.log("initialize gegotrex.js");
 
-	$.getJSON('/api/v1/results/gegotrex', function(data) {
+    $("#expander").on('click', displayInfo);
+    $("#more").hide();
+
+//	$.getJSON('/api/v1/results/gegotrex', function(data) {
+	$.getJSON('/campaign/static.json', function(data) {
 
 		data = _.filter(data, function(o) {
 			return _.size(o.companies);
@@ -9,6 +13,12 @@ function initialize() {
 		data = _.orderBy(data, function(o) {
 			return _.size(o.companies);
 		});
+
+        /* cleaning process */
+        data = _.map(data, function(o) {
+            o.href = o.href.replace(/^(http|https):\/\// ,'');
+            return o;
+        });
 
 		var html = "";
 		_.each(data, function(entry, i) {
@@ -26,3 +36,18 @@ function initialize() {
 	});
 }
 
+
+function displayInfo() {
+
+    if($("#more").is(':visible')) {
+        $("#expander").text("👁  info");
+        $("#expander").addClass('open');
+        $("#expander").removeClass('closed');
+    } else {
+        $("#expander").text("❌ info");
+        $("#expander").removeClass('open');
+        $("#expander").addClass('closed');
+    }
+
+    $("#more").toggle();
+};

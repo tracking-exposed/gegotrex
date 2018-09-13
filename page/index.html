@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -6,6 +7,7 @@
     <link rel="stylesheet" href="/css/index.css">
     <link rel="stylesheet" href="/js/vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/js/local/trex.css">
+    <link rel="stylesheet" href="/campaign/gegotrex.css">
 
     <script type="text/javascript" src="/js/vendor/jquery/jquery.js"></script>
     <script type="text/javascript" src="/js/vendor/lodash.min.js"></script>
@@ -24,16 +26,48 @@
   <body onload="initialize();">
     <section>
       <div class="container-fluid">
-        <h3>Presence of third party trackers in German government websites</h3>
+        <h3>Presence of third party trackers in German government websites 
+           <span id="expander" class="open">👁  info</span>
+        </h3>
+        <div id="more">
+          <h4>If an institutiona website include third party trackers, an external company register your activity.</h4>
+          <small>This data-drive investigation wonder if: 
+            <i>is every third party GDPR compliant?</i>
+            <i>are all the tracking cookies necessary?</i>
+            <i>the secure connection is it properly configured?</i>
+          </small>
+          <span class="col-xs-4">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Intitution analyzed</th>
+                  <th>third party cookies</th>
+                  <th>external companies</th>
+                  <th>SSL</th>
+                </tr>
+              </thead>
+              <tbody id="stats">
+              </tbody>
+                <tr>
+                  <th>follow the <a href="https://github.com/tracking-exposed/gegotrex">updates!</a></th>
+                  <th>They are the red <span class="cookie">number</span></th>
+                  <th>Yellow <span class="company">number</span></th>
+                  <th>SSL TBD</th>
+                </tr>
+              <tfoot>
+              </tfoot>
+            </table> 
+          </span>
+        </div>
       </div>
       <div class="table-responsive">          
         <table class="table">
           <thead>
             <tr>
-	      <th>#</th>
-	      <th>site tested</th>
-	      <th>cookies</th>
-	      <th>companies</th>
+	          <th>#</th>
+	          <th>Institution<th>
+	          <th>cookies</th>
+	          <th>companies</th>
               <th>?</th>
             </tr>
           </thead>
