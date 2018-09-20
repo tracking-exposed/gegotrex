@@ -4,10 +4,8 @@ function initialize() {
     $("#expander").on('click', displayInfo);
     $("#more").on('click', displayInfo);
 
-	$.getJSON('/api/v1/results/gegotrex', function(data) {
 	$.getJSON('/campaign/SSL-results.json', function(ssl) {
-//	$.getJSON('/campaign/static.json', function(data) {
-
+	$.getJSON('/api/v1/results/gegotrex', function(data) {
 
 		data = _.filter(data, function(o) {
 			return _.size(o.companies);
