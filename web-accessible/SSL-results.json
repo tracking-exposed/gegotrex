@@ -1,0 +1,1290 @@
+[
+  {
+    "site": "arb-5.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeit-4-null.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeit-psyche.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeitderzukunft.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeiten-4-0.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeiten4null.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeiten4punktnull.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeitenbis67.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeitenviernull.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeitenvierpunktnull.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeitsmarktreform.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeitsministerium.eu",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeitsschutz-forschung.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "arbeitvierpunktnull.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "armutsbericht.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "aussiedlerbeauftragter.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Beauftragter für Aussiedlerfragen und nationale Minderheiten"
+  },
+  {
+    "site": "bafa.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesamt für Wirtschaft und Ausfuhrkontrolle"
+  },
+  {
+    "site": "bafza.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "<span class=\"Aplus\">A+</span>",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben"
+  },
+  {
+    "site": "banu.bund.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Informationstechnikzentrum Bund"
+  },
+  {
+    "site": "behindern-ist-heilbar.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "beschaeftigtebeteiligen.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "beschaeftigung-aelterer.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "bfn.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesamt für Naturschutz"
+  },
+  {
+    "site": "bka-bund.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundeskriminalamt"
+  },
+  {
+    "site": "bka.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundeskriminalamt"
+  },
+  {
+    "site": "bmas.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "bmas.eu",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "bmbf.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Bildung und Forschung"
+  },
+  {
+    "site": "bmfsfj.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Familie, Senioren, Frauen und Jugend"
+  },
+  {
+    "site": "bmvg.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "B",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Bundesministerium der Verteidigung"
+  },
+  {
+    "site": "bmwi.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Wirtschaft und Energie"
+  },
+  {
+    "site": "bpb.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundeszentrale für politische Bildung"
+  },
+  {
+    "site": "bundesarbeitsministerium.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "bundesarchiv.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesarchiv"
+  },
+  {
+    "site": "bundesbank.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Deutsche Bundesbank"
+  },
+  {
+    "site": "bundesfinanzhof.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesfinanzhof"
+  },
+  {
+    "site": "bundesfinanzministerium.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium der Finanzen"
+  },
+  {
+    "site": "bundeskriminalamt.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundeskriminalamt"
+  },
+  {
+    "site": "bundeskriminalamt.eu",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundeskriminalamt"
+  },
+  {
+    "site": "bundeskriminalamt.net",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundeskriminalamt"
+  },
+  {
+    "site": "bundeskriminalamt.org",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundeskriminalamt"
+  },
+  {
+    "site": "bundespraesident.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "A",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Bundespräsident"
+  },
+  {
+    "site": "bundesrat.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesrat"
+  },
+  {
+    "site": "ciec-deutschland.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    }
+  },
+  {
+    "site": "csr-preis-bund.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "csrindeutschland.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "das-demographie-netzwerk.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "das-jobcenter.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "das-rentenpaket.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "demograf.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "der-demograf.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "der-mindestlohn-kommt.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "der-mindestlohn-wirkt.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "der-mindestlohn.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "derbevoelkerung.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundestag"
+  },
+  {
+    "site": "die-rente.com",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "die-rente.info",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "die-rente.net",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "die-rente.org",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "equal.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "esf-meine-geschichte.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "esf.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "evergabe-online.info",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Beschaffungsamt des Bundesministeriums des Innern"
+  },
+  {
+    "site": "fachkraefteoffensive.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "fachkraeftewoche.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "federal-ministry-of-finance.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium der Finanzen"
+  },
+  {
+    "site": "fli.bund.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Friedrich-Loeffler-Institut, Bundesforschungsinstitut für Tiergesundheit"
+  },
+  {
+    "site": "gda-psyche.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "generationpraktikum.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "globalisierungsfonds.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "gruan.org",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "A",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Deutscher Wetterdienst"
+  },
+  {
+    "site": "gute-arbeit-alleinerziehende.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "hartziv.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "hinzuverdienstrechner.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "ida.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "initiative-neue-qualitaet-der-arbeit.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inklusionslandkarte.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa-ddn.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa-demografie.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa-demographie-netzwerk.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa-demographie.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa-epoxibewertung.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa-kmu.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa-mittelstand.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa-pflege.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa-produktion.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa-stress.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "inqa.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "A",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "jobcenterreform.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "jobcenterservice.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "jobsohnebarrieren.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "lebenslagen-in-deutschland.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "mein-microkredit.com",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "mein-microkredit.eu",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "mein-mikrokredit.com",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "mein-mikrokredit.eu",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "mein-mikrokredit.org",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "meincomeback.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "meinmicrokredit.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "meinmikrokredit.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "mindestlohn-wirkt.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "ministere-federal-des-finances.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium der Finanzen"
+  },
+  {
+    "site": "mri.bund.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Max Rubner-Institut, Bundesforschungsinstitut für Ernährung und Lebensmittel"
+  },
+  {
+    "site": "neue-qualitaet-der-arbeit.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "neuekulturderarbeit.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "ombudsrat.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "personenstandsrecht.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium des Innern"
+  },
+  {
+    "site": "projekt-persoenliches-budget.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "A",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "psyga-check.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "rentenpaket.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "selberhandeln.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgb2-kennzahlen.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgb2-reform.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgb2.com",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgb2.eu",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgb2.info",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "A",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgb2.net",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgb2.org",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgbii-kennzahlen.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgbii.com",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgbii.eu",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgbii.net",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgbzwei.com",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgbzwei.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgbzwei.eu",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgbzwei.info",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgbzwei.net",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sgbzwei.org",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "soziale-entschaedigung.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sozialpolitische-informationen.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "sozialversicherungswahlen.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "teilzeit-info.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "thuenen.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "<span class=\"Aplus\">A+</span>",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Johann Heinrich von Thünen-Institut, Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei"
+  },
+  {
+    "site": "thw.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "A",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Bundesanstalt Technisches Hilfswerk"
+  },
+  {
+    "site": "tln-mobility.eu",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "trivis.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Deutscher Wetterdienst"
+  },
+  {
+    "site": "umweltbundesamt.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "A",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Umweltbundesamt"
+  },
+  {
+    "site": "unsere-rente.com",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "unsere-rente.info",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "unternehmens-wert-mensch.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "A",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "vereint-fuer-gemeinsame-bildung.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "verfassungsschutz.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesamt für Verfassungsschutz"
+  },
+  {
+    "site": "vier-punkt-null.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "A",
+      "sslGrade": "A",
+      "firstd": true
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "w3-indikatoren.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundestag"
+  },
+  {
+    "site": "w3-wohlstandsindikatoren.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundestag"
+  },
+  {
+    "site": "was-ist-gute-arbeit.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "wdrei-indikatoren.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundestag"
+  },
+  {
+    "site": "wdrei-wohlstandsindikatoren.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundestag"
+  },
+  {
+    "site": "whochdrei-indikatoren.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundestag"
+  },
+  {
+    "site": "whochdrei-wohlstandsindikatoren.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundestag"
+  },
+  {
+    "site": "xn--beschftigtebeteiligen-91b.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "xn--fachkrfteoffensive-qtb.de",
+    "sslstatus": {
+      "test": "fail"
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "yes-we-are-open.info",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "zielvereinbarungsregister.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesministerium für Arbeit und Soziales"
+  },
+  {
+    "site": "zivildienst.de",
+    "sslstatus": {
+      "test": "ok",
+      "actualGrade": "T",
+      "sslGrade": "A",
+      "firstd": false
+    },
+    "description": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben"
+  }
+]

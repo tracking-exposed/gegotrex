@@ -26,35 +26,42 @@
   <body onload="initialize();">
     <section>
       <div class="container-fluid">
-        <h3>Presence of third party trackers in German government websites 
+        <h3>Third party trackers in German government websites 
            <span id="expander" class="open">👁  info</span>
         </h3>
         <div id="more">
-          <h4>If an institutiona website include third party trackers, an external company register your activity.</h4>
-          <small>This data-drive investigation wonder if: 
-            <i>is every third party GDPR compliant?</i>
-            <i>are all the tracking cookies necessary?</i>
-            <i>the secure connection is it properly configured?</i>
-          </small>
+          <h4>If a website include third-party trackers, external companies can record your activity and profile you based on that.</h4>
+          <ul>
+            <li>Are these third-party GDPR compliant? are the customer informed about?</li>
+            <li>Is really necessary to the service, install cookies at every users connected to the homepage?</li>
+            <li>It is the secure connection available? It is properly configured?</li>
+          </ul>
+          <h4>Some of this question require manual checking, but where is possible, we automatize the analysis and offer results.</h4>
           <span class="col-xs-4">
             <table class="table">
               <thead>
                 <tr>
                   <th>Intitution analyzed</th>
                   <th>third party cookies</th>
-                  <th>external companies</th>
+                  <th>companies (unique/total)</th>
                   <th>SSL</th>
                 </tr>
               </thead>
               <tbody id="stats">
+                <tr>
+                  <td id="stats--amount"></td>
+                  <td id="stats--cookies"></td>
+                  <td id="stats--companies"></td>
+                  <td id="stats--ssl"></td>
+                </tr>
               </tbody>
+              <tfoot>
                 <tr>
                   <th>follow the <a href="https://github.com/tracking-exposed/gegotrex">updates!</a></th>
                   <th>They are the red <span class="cookie">number</span></th>
-                  <th>Yellow <span class="company">number</span></th>
-                  <th>SSL TBD</th>
+                  <th>Yellow are the trackers we couldn't <span class="company">attribute to a company</span> (yet!)</th>
+                  <th><i>research in progress</i></th>
                 </tr>
-              <tfoot>
               </tfoot>
             </table> 
           </span>
@@ -65,10 +72,10 @@
           <thead>
             <tr>
 	          <th>#</th>
-	          <th>Institution<th>
+	          <th>Institution</th>
 	          <th>cookies</th>
 	          <th>companies</th>
-              <th>?</th>
+              <th>SSL</th>
             </tr>
           </thead>
           <tbody id="results">

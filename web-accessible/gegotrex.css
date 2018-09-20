@@ -1,19 +1,26 @@
 section {
-    margin-top: 5px;
+    margin-top: 8px;
 }
+
 .open {
-    background: white;
-    padding: 4px;
-    border-radius: 4px;
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+    border: solid 6px #e6f6e4;
+    cursor: pointer;
 }
 
 .closed {
-    background: #00ceff;
-    padding: 4px;
-    color: white;
-    border-radius: 4px;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 6px white;
+    cursor: pointer;
 }
 
 #more {
     background: white;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
 }
+
